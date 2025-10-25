@@ -68,9 +68,9 @@ Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotli
 
 ### 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/-Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tuportafolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-gerbier-2331882a5)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](feligerbier@gmail.com)
 
 ---
 
