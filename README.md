@@ -71,6 +71,7 @@ E-commerce project for selling plants, seeds, and gardening tools using **Larave
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgerbier&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgerbier&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fgerbier&theme=tokyonight)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?fgerbier=MarikIshtar007&layout=compact">
 
 ---
 
