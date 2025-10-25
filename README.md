@@ -5,10 +5,14 @@
 ---
 
 ### 🧠 Sobre mí
-- 🌱 Me gusta diseñar y desarrollar aplicaciones web funcionales con **Laravel**, **React** y **Tailwind CSS**.  
-- 🧩 Tengo experiencia en proyectos de comercio electrónico, integración de APIs y automatización de procesos.  
-- 🎯 Enfocado en seguir aprendiendo y aplicando buenas prácticas de desarrollo.  
-- 🤝 Disfruto trabajar en equipo usando metodologías ágiles como **Scrum**.  
+
+Soy un **estudiante de Ingeniería Civil Informática** con interés en el desarrollo de software, la automatización de procesos y la tecnología aplicada a la mejora social.  
+Disfruto enfrentar desafíos que requieren análisis, creatividad y trabajo en equipo.  
+
+Me apasiona crear aplicaciones web funcionales y escalables utilizando frameworks modernos como **Laravel** y **React**, cuidando tanto la experiencia del usuario como la eficiencia del código.  
+Además, me motiva aprender constantemente nuevas herramientas y metodologías para seguir creciendo como desarrollador.  
+
+📌 **Objetivo:** seguir perfeccionándome en el desarrollo full stack y en la integración de tecnologías que aporten valor real a las personas y organizaciones.
 
 ---
 
@@ -73,3 +77,4 @@ Sitio web desarrollado con **HTML**, **TailwindCSS** y **animaciones CSS** para 
 ---
 
 ![Visitas](https://komarev.com/ghpvc/?username=felipegerbier&label=Profile%20views&color=0e75b6&style=flat)
+
