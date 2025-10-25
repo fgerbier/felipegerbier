@@ -49,12 +49,20 @@ Además, me motiva aprender constantemente nuevas herramientas y metodologías p
 
 ### 🧩 Proyectos Destacados
 
-🔹🍕 [Pizzería React](https://github.com/fgerber/feliger-pizza)
+🔹🍕 [Pizzería React](https://github.com/fgerber/feliger-pizza)  
 Aplicación web desarrollada con **React** y **Tailwind CSS** que permite explorar el menú, agregar productos al carrito y simular pedidos.  
 🧭 Implementa rutas dinámicas, estado global con Context API y diseño responsivo.
 
-🔹 [📊 Analizador de Datos en Python](https://github.com/fgerbier/ProyectosPython) 
+🔹 [📊 Analizador de Datos en Python](https://github.com/fgerbier/ProyectosPython)  
 Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotlib**.
+
+🔹 [🕵️‍♂️ OjoVecinal - Denuncias Ciudadanas](https://github.com/fgerbier/OjoVecinal)  
+Plataforma para registrar denuncias con **fecha y geolocalización**, permitiendo clasificar y visualizar incidentes en un mapa.  
+🧭 Implementa frontend con **React y Tailwind**, backend con **Laravel**, y funcionalidades interactivas con **Livewire**.
+
+🔹 [🌱 Vivero Online - Gestión de Plantas](https://github.com/fgerbier/Proyecto-Ingenieria-de-Software )  
+Proyecto de e-commerce para venta de plantas, semillas y herramientas de jardinería con **Laravel**, **React** y **Tailwind CSS**.  
+🧭 Incluye carrito de compras dinámico, filtrado de productos y panel administrativo.
 
 
 ---
