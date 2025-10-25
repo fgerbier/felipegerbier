@@ -52,7 +52,7 @@ Además, me motiva aprender constantemente nuevas herramientas y metodologías p
 🔹 [🛒 Carrito de Compras con Laravel y Livewire](https://github.com/felipegerbier/carrito-livewire)  
 Aplicación de comercio electrónico con integración de **Transbank**, gestión de productos y carrito dinámico.
 
-🔹 [📊 Analizador de Datos en Python]([[https://github.com/fgerbier/ProyectosPython])  
+🔹 [📊 Analizador de Datos en Python]([https://github.com/fgerbier/ProyectosPython)  
 Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotlib**.
 
 
