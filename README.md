@@ -49,7 +49,7 @@ Además, me motiva aprender constantemente nuevas herramientas y metodologías p
 
 ### 🧩 Proyectos Destacados
 
-🔹 #### 🍕 [Pizzería React](https://github.com/fgerber/feliger-pizza)
+🔹🍕 [Pizzería React](https://github.com/fgerber/feliger-pizza)
 Aplicación web desarrollada con **React** y **Tailwind CSS** que permite explorar el menú, agregar productos al carrito y simular pedidos.  
 🧭 Implementa rutas dinámicas, estado global con Context API y diseño responsivo.
 
