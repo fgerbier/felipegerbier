@@ -58,7 +58,7 @@ Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotli
 
 🔹 [🕵️‍♂️ OjoVecinal - Denuncias Ciudadanas](https://github.com/fgerbier/OjoVecinal)  
 Plataforma para registrar denuncias con **fecha y geolocalización**, permitiendo clasificar y visualizar incidentes en un mapa.  
-🧭 Implementa frontend con **React y Tailwind**, backend con **Laravel**, y funcionalidades interactivas con **Livewire**.
+🧭 Implementa frontend con **Tailwind**, backend con **Laravel**, y funcionalidades interactivas con **Livewire**.
 
 🔹 [🌱 Vivero Online - Gestión de Plantas](https://github.com/fgerbier/Proyecto-Ingenieria-de-Software )  
 Proyecto de e-commerce para venta de plantas, semillas y herramientas de jardinería con **Laravel**, **React** y **Tailwind CSS**.  
