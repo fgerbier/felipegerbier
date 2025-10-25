@@ -49,8 +49,9 @@ Además, me motiva aprender constantemente nuevas herramientas y metodologías p
 
 ### 🧩 Proyectos Destacados
 
-🔹 [🛒 Carrito de Compras con Laravel y Livewire](https://github.com/felipegerbier/carrito-livewire)  
-Aplicación de comercio electrónico con integración de **Transbank**, gestión de productos y carrito dinámico.
+🔹 #### 🍕 [Pizzería React](https://github.com/fgerber/feliger-pizza)
+Aplicación web desarrollada con **React** y **Tailwind CSS** que permite explorar el menú, agregar productos al carrito y simular pedidos.  
+🧭 Implementa rutas dinámicas, estado global con Context API y diseño responsivo.
 
 🔹 [📊 Analizador de Datos en Python](https://github.com/fgerbier/ProyectosPython) 
 Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotlib**.
