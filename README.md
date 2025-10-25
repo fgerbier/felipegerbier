@@ -1,1 +1,75 @@
-# felipegerbier
+# 👋 ¡Hola! Soy Felipe Gerbier
+
+💻 **Ingeniero Civil Informático** | 🚀 Apasionado por el desarrollo web, la innovación tecnológica y la creación de soluciones eficientes.
+
+---
+
+### 🧠 Sobre mí
+- 🌱 Me gusta diseñar y desarrollar aplicaciones web funcionales con **Laravel**, **React** y **Tailwind CSS**.  
+- 🧩 Tengo experiencia en proyectos de comercio electrónico, integración de APIs y automatización de procesos.  
+- 🎯 Enfocado en seguir aprendiendo y aplicando buenas prácticas de desarrollo.  
+- 🤝 Disfruto trabajar en equipo usando metodologías ágiles como **Scrum**.  
+
+---
+
+### 🧰 Tecnologías y Herramientas
+
+#### 💬 Lenguajes de Programación
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🎨 Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Frameworks
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### 🗄️ Base de Datos
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🧩 DevOps y Control de Versiones
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 📋 Metodologías
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Cascada](https://img.shields.io/badge/-Cascada-4A90E2?style=for-the-badge)
+
+---
+
+### 🧩 Proyectos Destacados
+
+🔹 [🛒 Carrito de Compras con Laravel y Livewire](https://github.com/felipegerbier/carrito-livewire)  
+Aplicación de comercio electrónico con integración de **Transbank**, gestión de productos y carrito dinámico.
+
+🔹 [📊 Analizador de Datos en Python](https://github.com/felipegerbier/data-analyzer)  
+Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotlib**.
+
+🔹 [🌐 Portafolio Personal](https://github.com/felipegerbier/portfolio)  
+Sitio web desarrollado con **HTML**, **TailwindCSS** y **animaciones CSS** para mostrar proyectos y contacto.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegerbier&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegerbier&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=felipegerbier&theme=tokyonight)
+
+---
+
+### 🌐 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
+[![Portfolio](https://img.shields.io/badge/-Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tuportafolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+---
+
+![Visitas](https://komarev.com/ghpvc/?username=felipegerbier&label=Profile%20views&color=0e75b6&style=flat)
