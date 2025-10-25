@@ -1,24 +1,24 @@
-# 👋 ¡Hola! Soy Felipe Gerbier
+# 👋 Hi! I'm Felipe Gerbier
 
-💻 **Ingeniero Civil Informático** | 🚀 Apasionado por el desarrollo web, la innovación tecnológica y la creación de soluciones eficientes.
-
----
-
-### 🧠 Sobre mí
-
-Soy un **estudiante de Ingeniería Civil Informática** con interés en el desarrollo de software, la automatización de procesos y la tecnología aplicada a la mejora social.  
-Disfruto enfrentar desafíos que requieren análisis, creatividad y trabajo en equipo.  
-
-Me apasiona crear aplicaciones web funcionales y escalables utilizando frameworks modernos como **Laravel** y **React**, cuidando tanto la experiencia del usuario como la eficiencia del código.  
-Además, me motiva aprender constantemente nuevas herramientas y metodologías para seguir creciendo como desarrollador.  
-
-📌 **Objetivo:** seguir perfeccionándome en el desarrollo full stack y en la integración de tecnologías que aporten valor real a las personas y organizaciones.
+💻 **Computer Civil Engineer** | 🚀 Passionate about web development, technological innovation, and creating efficient solutions.
 
 ---
 
-### 🧰 Tecnologías y Herramientas
+### 🧠 About Me
 
-#### 💬 Lenguajes de Programación
+I am a **Computer Civil Engineering student** with an interest in software development, process automation, and technology applied to social improvement.  
+I enjoy tackling challenges that require analysis, creativity, and teamwork.  
+
+I am passionate about creating functional and scalable web applications using modern frameworks like **Laravel** and **React**, focusing on both user experience and code efficiency.  
+Additionally, I am motivated to constantly learn new tools and methodologies to keep growing as a developer.  
+
+📌 **Goal:** continue improving in full-stack development and integrating technologies that bring real value to people and organizations.
+
+---
+
+### 🧰 Technologies & Tools
+
+#### 💬 Programming Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -35,39 +35,38 @@ Además, me motiva aprender constantemente nuevas herramientas y metodologías p
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-#### 🗄️ Base de Datos
+#### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🧩 DevOps y Control de Versiones
+#### 🧩 DevOps & Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### 📋 Metodologías
+#### 📋 Methodologies
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Cascada](https://img.shields.io/badge/-Cascada-4A90E2?style=for-the-badge)
+![Waterfall](https://img.shields.io/badge/-Waterfall-4A90E2?style=for-the-badge)
 
 ---
 
-### 🧩 Proyectos Destacados
+### 🧩 Featured Projects
 
-🔹🍕 [Pizzería React](https://github.com/fgerber/feliger-pizza)  
-Aplicación web desarrollada con **React** y **Tailwind CSS** que permite explorar el menú, agregar productos al carrito y simular pedidos.  
-🧭 Implementa rutas dinámicas, estado global con Context API y diseño responsivo.
+🔹🍕 [React Pizzeria](https://github.com/fgerber/feliger-pizza)  
+Web application built with **React** and **Tailwind CSS** that allows users to browse the menu, add products to the cart, and simulate orders.  
+🧭 Implements dynamic routes, global state with Context API, and responsive design.
 
-🔹 [📊 Analizador de Datos en Python](https://github.com/fgerbier/ProyectosPython)  
-Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotlib**.
+🔹 [📊 Python Data Analyzer](https://github.com/fgerbier/ProyectosPython)  
+Tool for data cleaning and visualization using **Pandas** and **Matplotlib**.
 
-🔹 [🕵️‍♂️ OjoVecinal - Denuncias Ciudadanas](https://github.com/fgerbier/OjoVecinal)  
-Plataforma para registrar denuncias con **fecha y geolocalización**, permitiendo clasificar y visualizar incidentes en un mapa.  
-🧭 Implementa frontend con **Tailwind**, backend con **Laravel**, y funcionalidades interactivas con **Livewire**.
+🔹 [🕵️‍♂️ OjoVecinal - Citizen Reports](https://github.com/fgerbier/OjoVecinal)  
+Platform to register reports with **date and geolocation**, allowing classification and visualization of incidents on a map.  
+🧭 Frontend with **Tailwind**, backend with **Laravel**, and interactive features with **Livewire**.
 
-🔹 [🌱 Vivero Online - Gestión de Plantas](https://github.com/fgerbier/Proyecto-Ingenieria-de-Software )  
-Proyecto de e-commerce para venta de plantas, semillas y herramientas de jardinería con **Laravel**, **React** y **Tailwind CSS**.  
-🧭 Incluye carrito de compras dinámico, filtrado de productos y panel administrativo.
-
+🔹 [🌱 Online Nursery - Plant Management](https://github.com/fgerbier/Proyecto-Ingenieria-de-Software)  
+E-commerce project for selling plants, seeds, and gardening tools using **Laravel**, **React**, and **Tailwind CSS**.  
+🧭 Includes dynamic shopping cart, product filtering, and admin panel.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Statistics
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgerbier&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgerbier&layout=compact&theme=tokyonight)
@@ -75,13 +74,14 @@ Proyecto de e-commerce para venta de plantas, semillas y herramientas de jardine
 
 ---
 
-### 🌐 Conecta conmigo
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-gerbier-2331882a5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gerbier-2331882a5)
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](feligerbier@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feligerbier@gmail.com)
 
 ---
 
-![Visitas](https://komarev.com/ghpvc/?username=felipegerbier&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=felipegerbier&label=Profile%20views&color=0e75b6&style=flat)
+
 
