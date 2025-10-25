@@ -55,8 +55,6 @@ Aplicación de comercio electrónico con integración de **Transbank**, gestión
 🔹 [📊 Analizador de Datos en Python](https://github.com/felipegerbier/data-analyzer)  
 Herramienta para limpieza y visualización de datos con **Pandas** y **Matplotlib**.
 
-🔹 [🌐 Portafolio Personal](https://github.com/felipegerbier/portfolio)  
-Sitio web desarrollado con **HTML**, **TailwindCSS** y **animaciones CSS** para mostrar proyectos y contacto.
 
 ---
 
